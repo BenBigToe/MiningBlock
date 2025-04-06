@@ -1,0 +1,15 @@
+{
+  "poolName": "MiningBlock",
+  "payoutAddress": "",
+  "feePercent": 1.0,
+  "feeAddress": "",
+  "ports": {
+    "stratum": 3333,
+    "admin": 3000
+  },
+  "difficulty": {
+    "min": 8,
+    "max": 65536,
+    "default": 16
+  }
+}

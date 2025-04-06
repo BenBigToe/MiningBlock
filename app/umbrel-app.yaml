@@ -1,0 +1,12 @@
+id: miningblock
+name: MiningBlock
+tagline: Bitcoin Mining Pool for Umbrel
+description: Solo mining pool with user accounts
+version: 1.0.0
+port: 3000
+path: /miningblock
+repo: BenBigToe/MiningBlock
+upstream: "3000"
+category: utilities
+dependencies:
+  bitcoin-knox: true
